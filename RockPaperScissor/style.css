@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+img{
+height: 150px;
+width: 150px;
+object-fit: cover;
+border-radius: 50px;
+}
+.choice{
+    display: inline;
+    gap: 25px;
+}
+.choices{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    gap: 3rem;
+}
+.scoreboard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    gap: 3rem;
+    font: 2rem;
+}
+
